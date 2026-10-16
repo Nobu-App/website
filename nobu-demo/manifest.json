@@ -1,0 +1,375 @@
+{
+  "label": "Interfaz en desarrollo · datos de demostración",
+  "sourceMainHead": "7e37386d90a88e621f54ae6b22847b82e6575e1d",
+  "fixtureDay": "2026-10-19",
+  "capturedOn": "2026-10-15",
+  "publicReleaseAtCapture": "v1.6.1",
+  "nativeProduct": "Desktop frontend, development source, synthetic data; not the published installer.",
+  "operations": "Copies and rectangular crops only. No text, color, icon or geometry edits. No upscale, sharpening or synthetic detail.",
+  "assets": [
+    {
+      "file": "calendario-general.jpg",
+      "role": "context",
+      "alt": "Calendario semanal real de Nobu con datos ficticios.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/01-calendario-semana-1680.jpg",
+      "sourceSha256": "99673c8b4cd53a0584175e374e175f4a16161cbdeff1bb06384a84a705af40a0",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1680,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "bytes": 62772,
+      "sha256": "99673c8b4cd53a0584175e374e175f4a16161cbdeff1bb06384a84a705af40a0",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "certamen-general.jpg",
+      "role": "context",
+      "alt": "Calendario con el detalle y la cita de Certamen 1.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/02-certamen-cita-1680.jpg",
+      "sourceSha256": "4951a81f5f1fea764b2dd4e80d1ebbece329b1de9e9dafd79133f1554034de5b",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1680,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "bytes": 76650,
+      "sha256": "4951a81f5f1fea764b2dd4e80d1ebbece329b1de9e9dafd79133f1554034de5b",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "inspector-general.jpg",
+      "role": "context",
+      "alt": "Calendario e inspector de evidencia de Certamen 1.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/03-inspector-evidencia-1680.jpg",
+      "sourceSha256": "f1d0a9384f8cee6b3fc687ff6f4851fc1883e15acd6a7a7a59ac0894265b7e4d",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1680,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "bytes": 80874,
+      "sha256": "f1d0a9384f8cee6b3fc687ff6f4851fc1883e15acd6a7a7a59ac0894265b7e4d",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "fuente-general.jpg",
+      "role": "context",
+      "alt": "Ficha del programa y comienzo de las fechas que respalda.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/04-fuente-dos-fechas-1680.jpg",
+      "sourceSha256": "25d35d181e0d44d3bafac1653315aa3f509a24ec951d9d2c4ce69f2fd4c78fbf",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1680,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "bytes": 90178,
+      "sha256": "25d35d181e0d44d3bafac1653315aa3f509a24ec951d9d2c4ce69f2fd4c78fbf",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "inicio-general.jpg",
+      "role": "context",
+      "alt": "Inicio de Nobu con widgets y datos ficticios.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/07-inicio-1680.jpg",
+      "sourceSha256": "2975b17178bd1e896424496c941e84bff0d3123dc77a609d53b8a2c3319b1bb0",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1680,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "bytes": 63334,
+      "sha256": "2975b17178bd1e896424496c941e84bff0d3123dc77a609d53b8a2c3319b1bb0",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "curso-general.jpg",
+      "role": "context",
+      "alt": "Inicio de Microeconomía I con material de demostración.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/06-curso-material-1680.jpg",
+      "sourceSha256": "ab3bdffed086142581dab92a34d505ba57eaa539b93bfff2d42ed43614f659dc",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1680,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "bytes": 60723,
+      "sha256": "ab3bdffed086142581dab92a34d505ba57eaa539b93bfff2d42ed43614f659dc",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "calendario-compacto.jpg",
+      "role": "context",
+      "alt": "Calendario real en una ventana compacta de escritorio.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/08-calendario-semana-1024.jpg",
+      "sourceSha256": "e80d2cb9f0cd5d94395221169da0f79835bd46070635092e49b2a9514bca17f2",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 720
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 720
+      },
+      "outputDimensions": {
+        "width": 1024,
+        "height": 720
+      },
+      "bytes": 48430,
+      "sha256": "e80d2cb9f0cd5d94395221169da0f79835bd46070635092e49b2a9514bca17f2",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "certamen-compacto.jpg",
+      "role": "context",
+      "alt": "Popover real de Certamen 1 en una ventana compacta.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/09-certamen-cita-1024.jpg",
+      "sourceSha256": "af2dcf10076aec30847cc00d9d188137e73ae0866a84e881ba33b1d3f92c63d7",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 720
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 720
+      },
+      "outputDimensions": {
+        "width": 1024,
+        "height": 720
+      },
+      "bytes": 60534,
+      "sha256": "af2dcf10076aec30847cc00d9d188137e73ae0866a84e881ba33b1d3f92c63d7",
+      "operation": "byte-identical copy",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": null,
+      "smallDisplay": "Context only at 500–700 px; pair with detail and real HTML explanation."
+    },
+    {
+      "file": "certamen-cita.webp",
+      "role": "detail",
+      "alt": "Certamen 1: martes 20 de octubre, 10:00–11:30; cita del programa, página 2.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/02-certamen-cita-1680.jpg",
+      "sourceSha256": "4951a81f5f1fea764b2dd4e80d1ebbece329b1de9e9dafd79133f1554034de5b",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 650,
+        "y": 170,
+        "width": 350,
+        "height": 380
+      },
+      "outputDimensions": {
+        "width": 350,
+        "height": 380
+      },
+      "bytes": 32698,
+      "sha256": "df8a3f30a186781428b39d51db9ee88a6f972dd56f885994519f7df0cf0cc030",
+      "operation": "crop only; lossless WebP; no resampling",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": 350,
+      "smallDisplay": "Native-size detail, centered within a 500–700 px stage."
+    },
+    {
+      "file": "inspector-evidencia.webp",
+      "role": "detail",
+      "alt": "Inspector real con fecha, procedencia y evidencia de Certamen 1.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/03-inspector-evidencia-1680.jpg",
+      "sourceSha256": "f1d0a9384f8cee6b3fc687ff6f4851fc1883e15acd6a7a7a59ac0894265b7e4d",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 1280,
+        "y": 0,
+        "width": 400,
+        "height": 478
+      },
+      "outputDimensions": {
+        "width": 400,
+        "height": 478
+      },
+      "bytes": 37764,
+      "sha256": "15c474e201005932f75706bff91cbfb2f871b59564fea1b9de9e6567edd1ac4d",
+      "operation": "crop only; lossless WebP; no resampling",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": 400,
+      "smallDisplay": "Native-size detail, centered within a 500–700 px stage."
+    },
+    {
+      "file": "fuente-resumen.webp",
+      "role": "detail",
+      "alt": "Ficha del programa: metadata y dos fechas encontradas.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/04-fuente-dos-fechas-1680.jpg",
+      "sourceSha256": "25d35d181e0d44d3bafac1653315aa3f509a24ec951d9d2c4ce69f2fd4c78fbf",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 1280,
+        "y": 0,
+        "width": 400,
+        "height": 550
+      },
+      "outputDimensions": {
+        "width": 400,
+        "height": 550
+      },
+      "bytes": 28622,
+      "sha256": "d7ab5297988690c145747cde5069cf719f616daeef3d53f75917082443c78c6c",
+      "operation": "crop only; lossless WebP; no resampling",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": 400,
+      "smallDisplay": "Native-size detail, centered within a 500–700 px stage."
+    },
+    {
+      "file": "fuente-dos-citas.webp",
+      "role": "detail",
+      "alt": "Dos citas del programa: Certamen 1 y Control 2, este último con hora por confirmar.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/12-fuente-dos-citas-visibles-1680.jpg",
+      "sourceSha256": "abcf52c74057f6a9c8e1f24c7eba6f42baad2917d6fcfc900c735768f9f83201",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 1280,
+        "y": 360,
+        "width": 400,
+        "height": 418
+      },
+      "outputDimensions": {
+        "width": 400,
+        "height": 418
+      },
+      "bytes": 33820,
+      "sha256": "8e22658bb27f04f5f931ecad6c8edc011225e75b8051895c65ab696e1263578f",
+      "operation": "crop only; lossless WebP; no resampling",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": 400,
+      "smallDisplay": "Native-size detail, centered within a 500–700 px stage."
+    },
+    {
+      "file": "fuente-panel-completo.webp",
+      "role": "detail",
+      "alt": "Panel real del programa desplazado hasta mostrar completas sus dos citas.",
+      "label": "Interfaz en desarrollo · datos de demostración",
+      "source": "research/evidence/nobu/12-fuente-dos-citas-visibles-1680.jpg",
+      "sourceSha256": "abcf52c74057f6a9c8e1f24c7eba6f42baad2917d6fcfc900c735768f9f83201",
+      "sourceDimensions": {
+        "width": 1680,
+        "height": 778
+      },
+      "crop": {
+        "x": 1280,
+        "y": 0,
+        "width": 400,
+        "height": 778
+      },
+      "outputDimensions": {
+        "width": 400,
+        "height": 778
+      },
+      "bytes": 57792,
+      "sha256": "95bb89010a9c57d041f099d11f432443f69cad4d2bdcc5e734b2d415469334b0",
+      "operation": "crop only; lossless WebP; no resampling",
+      "decodedCropPixelsIdentical": true,
+      "recommendedMaxCssWidth": 400,
+      "smallDisplay": "Native-size detail, centered within a 500–700 px stage."
+    }
+  ]
+}

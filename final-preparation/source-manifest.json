@@ -1,0 +1,118 @@
+{
+  "component": "src/ui/inicio/PrimeraLectura.tsx",
+  "fixture": "Datos ficticios; avance compuesto por las funciones originales de Nobu.",
+  "sources": [
+    {
+      "path": "src/core/agenda/entrega.ts",
+      "sha256": "61af474b59e6887ee212085f588306d5c6ae51c2beb4294a7e23afb430e8ac2c"
+    },
+    {
+      "path": "src/core/calendar/cuando.ts",
+      "sha256": "4647dfbdc42ccf1a6a1e6843ad221922c3942d639eb9781aac1716816c4d52b1"
+    },
+    {
+      "path": "src/core/calendar/momento.ts",
+      "sha256": "b5877dc634df9e326b7b3a4fd3d8fc8c8e6c79d548e47135cfbb3962ffbab173"
+    },
+    {
+      "path": "src/core/calendar/month.ts",
+      "sha256": "6716ade0ebaf91450d47cc11b83360e8894f0631698c073af29bb936d57e5272"
+    },
+    {
+      "path": "src/core/calendar/taxonomy.ts",
+      "sha256": "2e3d78c36edde5e0d1652a8fc9d8ef62af424579b4e3a5154aad3ad840dae6dd"
+    },
+    {
+      "path": "src/core/calendar/week.ts",
+      "sha256": "e0b23f4576df13107f78637adba0590eb246b76675ea2f3663c920d9bfb2e977"
+    },
+    {
+      "path": "src/core/errors.ts",
+      "sha256": "f9642bc37be2afab9f84d94650ab1ce2f2d97df5e61473625ce63313b0e3f9ac"
+    },
+    {
+      "path": "src/core/inicio/primeraLectura.ts",
+      "sha256": "60bbb665d5bdbb281c866ff400a446070943a889e8f69ebce09e5d9212c48986"
+    },
+    {
+      "path": "src/core/inicio/texto.ts",
+      "sha256": "5db600fbce5d12e20fb47607d57093ce13b9152a8841d19c9feffd3a09343253"
+    },
+    {
+      "path": "src/core/preparacion/estado.ts",
+      "sha256": "262f5d59ad1122e3105713bf10d6e5aede98de41f12f2c4eda96571c0a120078"
+    },
+    {
+      "path": "src/core/procesos/frentes.ts",
+      "sha256": "59c9f8defd024bbdf99097be8692f9fc5f7979e98d3283822805abbcd640a9d3"
+    },
+    {
+      "path": "src/core/proyeccion/fecha.ts",
+      "sha256": "20860e7d2f847e4d5483ae0613d2d4fa249d7700b9dbc8f5ed933edc50024757"
+    },
+    {
+      "path": "src/core/proyeccion/texto.ts",
+      "sha256": "9969fce1f8c7e5580ff920ebe1edfc61788f61855e167bd5d8372cdd8a3cf2e0"
+    },
+    {
+      "path": "src/core/syncInbox/cuenta.ts",
+      "sha256": "4d78a5ab1876020f9d2a2c1702e64d8ae96465268538f81cbf52536c5fe7cc88"
+    },
+    {
+      "path": "src/core/time/civil.ts",
+      "sha256": "46911bf5842ca0a06dae60d204c2b7c0832962dfc80ebfe58d1beceb9a8965bc"
+    },
+    {
+      "path": "src/ui/components/primitives.css",
+      "sha256": "9cad28f3182d70c9f51a75c643550384592eb7b3b13259fd4a558d598a184854"
+    },
+    {
+      "path": "src/ui/components/primitives.tsx",
+      "sha256": "fb4f15e0c45f460631a2e028197fdac9c1e9ba22549bb8bb045c680063c92774"
+    },
+    {
+      "path": "src/ui/design/LogoVivo.tsx",
+      "sha256": "b7adce5c8080f48e147a04c9e2af3a41d9b791f514367241fbe7140cfa4f960e"
+    },
+    {
+      "path": "src/ui/design/icons.tsx",
+      "sha256": "1341d897f4ed46ac0a79832161d3c3213a3ad6916b94c199a719ed9fb5b717ac"
+    },
+    {
+      "path": "src/ui/design/logo-vivo.css",
+      "sha256": "e89fb009c97fa090fc350ad0c5a12d21e46f46cc255d0e3697142ceeb07541e2"
+    },
+    {
+      "path": "src/ui/design/tokens.css",
+      "sha256": "a6f23f9c4632151655bea2931f6de66372fa2483f647043357da1f64ef542b69"
+    },
+    {
+      "path": "src/ui/inicio/PrimeraLectura.tsx",
+      "sha256": "056924913d8169e37868f7442ebc219a448b5dbcd1761d9a9f87748a947e5f28"
+    },
+    {
+      "path": "src/ui/inicio/primeraLectura.css",
+      "sha256": "c84f9243a6bb58c4fe3e40aeeb5af246504ed1c5cc3f352f38f6f62e2f29e8af"
+    },
+    {
+      "path": "tools/web-preparation/fixtures.ts",
+      "sha256": "d36160431d6b5c0685bce05d52356af7667971c89ffc15f0567ffb7542a42d72"
+    },
+    {
+      "path": "tools/web-preparation/index.html",
+      "sha256": "25ae72aadf925f83ddf96ffe55685b73af205d45670befecbc22ad1f861ef874"
+    },
+    {
+      "path": "tools/web-preparation/main.tsx",
+      "sha256": "a6e853ca2d28e09e8c76263a19e3b1186f36cf3b4da87142a80b692318d0ed12"
+    },
+    {
+      "path": "tools/web-preparation/preparation.css",
+      "sha256": "72b4294c7eea888d13a4e23693bf1da0ddf317fb29aefa9a231ce6f5068dc565"
+    },
+    {
+      "path": "tools/web-preparation/protocol.ts",
+      "sha256": "2065d6763275e911db8549bd25c20f97e66d8ba8393a9ba43f95070005d79790"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nobuapp.cl/sitemap.xml

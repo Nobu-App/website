@@ -1,0 +1,94 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.nobuapp.cl"
+        }
+      ],
+      "destination": "https://nobuapp.cl/:path",
+      "permanent": true
+    },
+    {
+      "source": "/final",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/final/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/final/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/b/ejemplos/programa",
+      "destination": "/final/ejemplos/programa/",
+      "permanent": true
+    },
+    {
+      "source": "/b/ejemplos/programa/",
+      "destination": "/final/ejemplos/programa/",
+      "permanent": true
+    },
+    {
+      "source": "/b/ejemplos/anuncio",
+      "destination": "/final/ejemplos/anuncio/",
+      "permanent": true
+    },
+    {
+      "source": "/b/ejemplos/anuncio/",
+      "destination": "/final/ejemplos/anuncio/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/:section(a|b|c1|g1|g2|n1|n2|n3|o1|o2|v1|v2|v3|v4|v5|v6|compare|anteriores|exploraciones|propuestas)/:path(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/final/ejemplos/:path(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/demo/:path(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/final-preparation/:path(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
+  ]
+}

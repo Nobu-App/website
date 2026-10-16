@@ -1,0 +1,1 @@
+import"./menu.B3mJyFvs.js";var e=document.querySelector(`.ch-header`),t=()=>e?.classList.toggle(`ch-header--scrolled`,scrollY>24);window.addEventListener(`scroll`,t,{passive:!0}),t();
