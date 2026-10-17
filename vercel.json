@@ -55,8 +55,41 @@
   ],
   "headers": [
     {
+      "source": "/:path(.*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'none'; script-src 'self' 'sha256-f8W6Do1mVmop47DgJUWmhiTq8QsxV9fmboYCSFLsVK4=' 'sha256-6L9pzd3DfQNt6FoWqXJpcmpUxA5EiAua/Ph1yfQahFE=' 'sha256-DRAm9EAxY9CoXJm1P5EojJHsVB85IQijpLVsJgbQ47A=' 'sha256-pkvgt6PoXmb0Bn1Ww8DOOyEQXF9T1JeF7M7Rf3AuvPs=' 'sha256-QswxixCn/GA/y/DB/YiF8JymATI23P1BIuz32xHAOHE=' 'sha256-gYDbl0D0/1MyLKGf9s+r/l/gtdCBCHGPzg++C8XxMOc=' 'sha256-tKThwv1hekp6n2YUBxHKkD3FZLMPsWWaLlg+QUecJZA=' 'sha256-DGpizwhd2vnFPEAB5EkS1RcVAlTzAgR1tSA1i7+NFdA=' 'sha256-GauHzBeQ0don4DmIHBfTHEoJ3F8UjuxSfGaPlQXf2tU=' 'sha256-dOOnsQEL9oTjt/wN7wDqMxA7Ox+KNUeK0QcWXIDCnnc='; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'none'; frame-src 'self'; frame-ancestors 'self'; object-src 'none'; base-uri 'none'; form-action 'none'"
+        },
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=(), payment=(), usb=()"
+        }
+      ]
+    },
+    {
       "source": "/cuenta/confirmar",
       "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'none'; script-src 'sha256-GauHzBeQ0don4DmIHBfTHEoJ3F8UjuxSfGaPlQXf2tU='; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'none'; frame-src 'none'; frame-ancestors 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
         {
           "key": "Referrer-Policy",
           "value": "no-referrer"
@@ -74,6 +107,14 @@
     {
       "source": "/cuenta/confirmar/:path(.*)",
       "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'none'; script-src 'sha256-GauHzBeQ0don4DmIHBfTHEoJ3F8UjuxSfGaPlQXf2tU='; script-src-attr 'none'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'none'; frame-src 'none'; frame-ancestors 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
         {
           "key": "Referrer-Policy",
           "value": "no-referrer"
