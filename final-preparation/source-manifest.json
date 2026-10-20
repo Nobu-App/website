@@ -20,7 +20,7 @@
     },
     {
       "path": "src/core/calendar/taxonomy.ts",
-      "sha256": "2e3d78c36edde5e0d1652a8fc9d8ef62af424579b4e3a5154aad3ad840dae6dd"
+      "sha256": "6fe44002d66ace06515f7b8abe03f706cc788c15bd0103802d2de931df5bc069"
     },
     {
       "path": "src/core/calendar/week.ts",
@@ -104,7 +104,7 @@
     },
     {
       "path": "tools/web-preparation/main.tsx",
-      "sha256": "a6e853ca2d28e09e8c76263a19e3b1186f36cf3b4da87142a80b692318d0ed12"
+      "sha256": "6b784270dafd49a437425304b7b9aa7121e63a158ab3c0f306a256709f9eab6d"
     },
     {
       "path": "tools/web-preparation/preparation.css",
